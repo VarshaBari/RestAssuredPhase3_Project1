@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-09T07:09:15Z" name="Default suite" finished-at="2024-10-09T07:09:17Z" duration-ms="2049">
+    <groups>
+    </groups>
+    <test started-at="2024-10-09T07:09:15Z" name="Default test" finished-at="2024-10-09T07:09:17Z" duration-ms="2049">
+      <class name="restAPI.EndToEndTest">
+        <test-method signature="Test01_GetAllEmployee()[pri:0, instance:restAPI.EndToEndTest@63611043]" started-at="2024-10-09T07:09:15Z" name="Test01_GetAllEmployee" finished-at="2024-10-09T07:09:16Z" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_GetAllEmployee -->
+        <test-method signature="Test02_GetSingleEmployee()[pri:0, instance:restAPI.EndToEndTest@63611043]" started-at="2024-10-09T07:09:16Z" name="Test02_GetSingleEmployee" finished-at="2024-10-09T07:09:16Z" duration-ms="474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02_GetSingleEmployee -->
+        <test-method signature="Test03_CreateEmployee()[pri:0, instance:restAPI.EndToEndTest@63611043]" started-at="2024-10-09T07:09:16Z" name="Test03_CreateEmployee" finished-at="2024-10-09T07:09:17Z" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03_CreateEmployee -->
+        <test-method signature="Test04_DeleteEmployee()[pri:0, instance:restAPI.EndToEndTest@63611043]" started-at="2024-10-09T07:09:17Z" name="Test04_DeleteEmployee" finished-at="2024-10-09T07:09:17Z" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test04_DeleteEmployee -->
+        <test-method signature="Test05_TestDeletedEmployee()[pri:0, instance:restAPI.EndToEndTest@63611043]" started-at="2024-10-09T07:09:17Z" name="Test05_TestDeletedEmployee" finished-at="2024-10-09T07:09:17Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test05_TestDeletedEmployee -->
+      </class> <!-- restAPI.EndToEndTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
